@@ -5,7 +5,8 @@ I’m a curious builder who enjoys turning data, automation, and AI into practic
 
 I work across Data Analytics, Machine Learning, AI Automation, and Data Visualization, while constantly exploring new ways to build smarter workflows and useful applications.
 
-### 🧠 About Me
+### About Me
+|-----------------|
 ### 📊 Passionate about Data Analytics & Data Visualization
 ### 🤖 Exploring AI Agents & Intelligent Automation
 ### ⚙️ Building workflows with n8n
