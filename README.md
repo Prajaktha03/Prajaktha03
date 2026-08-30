@@ -1,4 +1,4 @@
-# <h1 style="color:#3498DB;">👋 Hey, I'm Prajaktha!</h1>
+# <h1 style="color:#3498DB;"> 👋 Hey, I'm Prajaktha!</h1>
 #### Data Analyst • AI Workflow Builder • Automation Enthusiast • Machine Learning Explorer
 
 I’m a curious builder who enjoys turning data, automation, and AI into practical solutions.
