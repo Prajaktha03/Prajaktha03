@@ -1,16 +1,14 @@
-## Hi there 👋
+# <h1 style="color:#3498DB;">👋 Hey, I'm Prajaktha!</h1>
+#### Data Analyst • AI Workflow Builder • Automation Enthusiast • Machine Learning Explorer
 
-<!--
-**Prajaktha03/Prajaktha03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a curious builder who enjoys turning data, automation, and AI into practical solutions.
 
-Here are some ideas to get you started:
+I work across Data Analytics, Machine Learning, AI Automation, and Data Visualization, while constantly exploring new ways to build smarter workflows and useful applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+### 📊 Passionate about Data Analytics & Data Visualization
+### 🤖 Exploring AI Agents & Intelligent Automation
+### ⚙️ Building workflows with n8n
+### 🧠 Learning and experimenting with Machine Learning
+### 📈 Turning raw data into actionable insights
+### ☁️ Exploring Cloud & Salesforce
