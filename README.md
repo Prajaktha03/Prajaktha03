@@ -3,4 +3,5 @@
  </p>
 
 I’m a curious builder who enjoys turning data, automation, and AI into practical solutions.
-I work across Data Analytics, AI Automation and Data Visualization, while constantly exploring new ways to build smarter workflows and useful applications.
+I work across Data Analytics, LLM Integration, AI Automation ,Visualization - while constantly exploring new ways to build smarter workflows and useful applications.
+
